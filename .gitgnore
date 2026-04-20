@@ -1,0 +1,11 @@
+ipdispatch.opensdf
+ipdispatch.sdf
+.vs/ipdispatch/v14/.suo
+Debug/
+ipApply/ipApply.vcxproj.user
+ipch/IPAPPLY-5c2daeb1/IPAPPLY-248a46cb.ipch
+ipReply/ipReply.vcxproj.user
+doc/
+libipapply/libipapply.opensdf
+libipapply/libipapply.sdf
+libipapply/libipapply.vcxproj.user
